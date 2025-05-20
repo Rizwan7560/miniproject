@@ -1,0 +1,13 @@
+/* src/styles/About.css */
+.about-section {
+    min-height: 100vh;
+    padding: 4rem 2rem;
+    background: #f9f9f9;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
